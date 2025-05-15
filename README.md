@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi there! My name is Jiarui Shen (沈嘉瑞) (he). **AlexGrandbell** is my nickname, you can use it to identify me on other platforms.
+👋 Hi there! My name is Jiarui Shen (he). **AlexGrandbell** is my nickname, you can use it to identify me on other platforms.
 
 - 🔭 I am an undergraduate student at [Wuhan University of Technology](http://english.whut.edu.cn).
 - 🌱 My research interests include large language models, AI security and AI agents.
