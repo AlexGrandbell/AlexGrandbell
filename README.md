@@ -11,7 +11,7 @@
 
 <p>
   <!-- 编程语言 -->
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,swift,html,css,js,vue,spring,nginx,git,docker,nodejs,linux,ubuntu,apple,mysql,figma,ps,pr,au,tensorflow,idea,clion,pycharm,vscode&perline=7" alt="icons"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,swift,html,css,js,vue,spring,nginx,git,docker,nodejs,linux,ubuntu,apple,mysql,figma,ps,pr,au,tensorflow,idea,clion,pycharm,vscode" alt="icons"/>
 </p>
 
 ## GitHub Stats
