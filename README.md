@@ -5,6 +5,8 @@
 - 🌱 My research interests include large language models, AI security and AI agents.
 - 📫 How to reach me: dimoalex90 (at) gmail.com
 
+☟This is the number of requests that have visited this page (Starting from May 15, 2025).
+
 [![](https://komarev.com/ghpvc/?username=AlexGrandbell&label=View)](https://github.com/AlexGrandbell)
 
 ## Languages & Tools
