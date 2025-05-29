@@ -2,7 +2,7 @@
 👋 Hi there! My name is Jiarui Shen (he). **AlexGrandbell** is my nickname, you can use it to identify me on other platforms.
 
 - 🔭 I am an undergraduate student at [Wuhan University of Technology](http://english.whut.edu.cn).
-- 🌱 My research interests include large language models, AI security and AI agents.
+- 🌱 My research interests include large language models, AI security, AI agents and any meaningful & interesting aspects.
 - 📫 How to reach me: dimoalex90 (at) gmail.com
 
 ☟This is the number of requests that have visited this page (Starting from May 15, 2025).
